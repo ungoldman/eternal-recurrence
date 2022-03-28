@@ -150,23 +150,22 @@ function oneOf (arr) {
 }
 
 const run = async () => {
-  if (process.env.OPENAI_API_KEY == null) {
-    throw new Error('missing required env var: process.env.OPENAI_API_KEY')
+  const { OPENAI_API_KEY, CUSTOM_PROMPT } = process.env
+
+  if (OPENAI_API_KEY == null) {
+    throw new Error('Missing required env var: OPENAI_API_KEY')
   }
 
-  const customPrompt = process.env.CUSTOM_PROMPT
   const engineId = core.getInput('engineId') || 'text-davinci-002'
   let prompt
 
   core.setOutput('engine_id', engineId)
 
-  console.log('custom prompt?', customPrompt, typeof customPrompt, customPrompt == null, customPrompt === '')
+  if (typeof CUSTOM_PROMPT === 'string' && CUSTOM_PROMPT !== '') {
+    prompt = CUSTOM_PROMPT
 
-  if (customPrompt) {
-    prompt = customPrompt
-
-    core.setOutput('prompt', customPrompt)
-    core.setOutput('commit_msg', customPrompt.charAt(0).toUpperCase() + customPrompt.slice(1))
+    core.setOutput('prompt', prompt)
+    core.setOutput('commit_msg', prompt.charAt(0).toUpperCase() + prompt.slice(1))
   } else {
     const medium = oneOf(mediums)
     const prep = oneOf(prepositions)
@@ -202,8 +201,6 @@ const run = async () => {
       }
     })(core.getInput('logit_bias'))
   }
-
-  console.log('payload', payload)
 
   if (!payload.prompt) {
     core.setFailed('No prompt provided')
