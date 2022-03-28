@@ -105,6 +105,7 @@ const run = async () => {
   core.setOutput('style', style)
   core.setOutput('style', engineId)
   core.setOutput('prompt', prompt)
+  core.setOutput('engine_id', engineId)
 
   const payload = {
     prompt,
