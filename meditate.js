@@ -16,7 +16,11 @@ const mediums = [
   'tirade',
   'ode',
   'song',
-  'dirge'
+  'dirge',
+  'fable',
+  'fairy tale',
+  'yarn',
+  'tall tale'
 ]
 
 const subjects = [
