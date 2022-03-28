@@ -119,7 +119,7 @@ const run = async () => {
   core.setOutput('style', engineId)
   core.setOutput('prompt', prompt)
   core.setOutput('engine_id', engineId)
-  core.setOutput('commit_msg', message)
+  core.setOutput('commit_msg', message.charAt(0).toUpperCase() + message.slice(1))
 
   const payload = {
     prompt,
