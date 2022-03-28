@@ -15,6 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      CUSTOM_PROMPT: ${{ github.event.inputs.prompt }}
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2
@@ -25,8 +26,6 @@ jobs:
 
       - name: meditation
         id: meditation
-        with:
-          prompt: ${{ github.event.inputs.prompt }}
         run: npm start
 
       - uses: actions/checkout@v2
