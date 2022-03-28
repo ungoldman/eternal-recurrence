@@ -1,21 +1,7 @@
 
 
-There is no greater good than idealism
-It is the wellspring of all that is great
-In it we find the courage to hope
-And the strength to make our dreams real
+Artificial intelligence is something that we should all be aware of. It's not something to be feared, but to be excited about. We should embrace it and use it to our advantage.
 
-It is the noblest of all things
-To strive for something better
-To know that we can be better
-And to never give up on that hope
+Think about it – with artificial intelligence, we can create machines that can think and learn on their own. They can help us with our work, and make our lives easier. They can also help us make better decisions, by providing us with data and insights that we wouldn't otherwise have.
 
-It is the fire that burns within us
-The desire to make a difference
-To make the world a better place
-For all who live in it
-
-It is the highest of all ambitions
-To make our ideals a reality
-And in doing so, to make ourselves better
-For having striven for something more
+So let's not be afraid of artificial intelligence. Let's embrace it and use it to our advantage. It's something that can help us achieve great things.
