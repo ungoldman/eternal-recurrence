@@ -67,6 +67,15 @@ const subjects = [
   'ethics',
   'ambiguity',
   'joy',
+  'adventure',
+  'tragedy',
+  'action',
+  'comedy',
+  'youth',
+  'old age',
+  'middle age',
+  'depression',
+  'inspiration',
   'a subject of your choosing'
 ]
 
@@ -121,6 +130,18 @@ const authors = [
   'Isaac Asimov',
   'James Joyce',
   'Oscar Wilde',
+  'Virginia Woolf',
+  'Dante Alighieri',
+  'William Shakespeare',
+  'Lev Tolstoy',
+  'Fyodor Dostoevsky',
+  'Sophocles',
+  'Edgar Allan Poe',
+  'Ernest Hemingway',
+  'Haruki Murakami',
+  'Mark Twain',
+  'Arthur Conan Doyle',
+  'Molière',
   'your choosing'
 ]
 
