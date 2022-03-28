@@ -1,9 +1,23 @@
 
 
-The world is full of constant change. The only thing that is truly real is the present moment. The past is gone and the future is not yet here. All we have is the present.
+Justice is a way of life
 
-This can be a difficult concept to grasp. We are always looking to the past or the future for reference points. We try to predict what will happen next and plan for it. But the only thing that is really real is the present moment.
+It is always there to guide us
 
-This is not to say that the past and future don't exist. They do, but they are not real in the same way as the present. The past is just a memory and the future is just an imagined future. Neither of them are truly real.
+And show us the path to take
 
-The present is the only thing that is real. It is always changing and it is the only thing that we can truly experience. The past and future may be important to us, but they are not real. We need to focus on the present moment and live in the now.
+When we falter, it is there to catch us
+
+And help us back on our feet
+
+So that we can continue on our journey
+
+ Justice is always fair
+
+And it never takes sides
+
+It is always there to see us through
+
+And help us make the right choices
+
+So that we can live a life of harmony
