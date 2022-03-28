@@ -17,13 +17,14 @@ jobs:
         id: openai_completion
         with:
           prompt: ${{ github.event.inputs.prompt }}
+          finish_reason: stop
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
       - uses: actions/github-script@v5
         name: Print the response text
         with:
-          script:  console.log(JSON.parse('${{ steps.openai_completion.outputs.response }}'))
+          script: console.log(JSON.parse('${{ steps.openai_completion.outputs.response }}'))
 
       - uses: actions/checkout@v2
       - name: tick
@@ -33,4 +34,4 @@ jobs:
           git config --global user.name "${GITHUB_ACTOR}"
           git add test.json
           git commit -m "add test response"
-          git push origin master
+          git push origin main
