@@ -20,7 +20,8 @@ const mediums = [
   'fable',
   'fairy tale',
   'yarn',
-  'tall tale'
+  'tall tale',
+  'parable'
 ]
 
 const subjects = [
