@@ -24,6 +24,15 @@ const mediums = [
   'parable'
 ]
 
+const prepositions = [
+  'about',
+  'on',
+  'concerning',
+  'considering',
+  'regarding',
+  'for'
+]
+
 const subjects = [
   'existentialism',
   'the nature of existence',
@@ -61,7 +70,20 @@ const subjects = [
   'a subject of your choosing'
 ]
 
-const styles = [
+const relations = [
+  'in the style of',
+  'based on the works of',
+  'addressed to',
+  'in honor of',
+  'in opposition to',
+  'for',
+  'as a tribute to',
+  'in memory of',
+  'imitating',
+  'by'
+]
+
+const authors = [
   'Friedrich Nietzsche',
   'Ludwig Wittgenstein',
   'David Hume',
@@ -112,16 +134,14 @@ const run = async () => {
   }
 
   const medium = oneOf(mediums)
+  const prep = oneOf(prepositions)
   const subject = oneOf(subjects)
-  const style = oneOf(styles)
+  const relation = oneOf(relations)
+  const author = oneOf(authors)
   const engineId = core.getInput('engineId') || 'text-davinci-002'
-  const message = `${medium} about ${subject} in the style of ${style}`
+  const message = `${medium} ${prep} ${subject} ${relation} ${author}`
   const prompt = core.getInput('prompt') || `Please write an original ${message}.`
 
-  core.setOutput('medium', medium)
-  core.setOutput('subject', subject)
-  core.setOutput('style', style)
-  core.setOutput('style', engineId)
   core.setOutput('prompt', prompt)
   core.setOutput('engine_id', engineId)
   core.setOutput('commit_msg', message.charAt(0).toUpperCase() + message.slice(1))
