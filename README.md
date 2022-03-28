@@ -1,31 +1,22 @@
 
 
-I don't care if the sun shines
-I don't care if the birds sing
-I'm just a cynical man
-Living in a cynical world
+When Hannah Arendt died,
+the world lost a great thinker,
+a passionate advocate for ethics.
 
-No, I don't care if the sun shines
-I don't care if the birds sing
-I'm just a cynical man
-Living in a cynical world
+Arendt was a philosophical giant,
+whose work on ethics
+has influenced generations of thinkers.
 
-I've seen too much of this life
-I've seen too much of this world
-And I'm just not impressed
+She was a fearless defender of justice,
+a tireless seeker of truth.
 
-I've read your books, Ernest
-And I just don't see
-What all the fuss is about
+Her death is a great loss to the world,
+but her legacy will live on.
 
-You wrote about war and love
-But it all just seems so trite
+Arendt's work will continue to inspire
+those who care about ethics and justice.
 
-Maybe I'm just not smart enough
-Maybe I'm just not wise
+May she rest in peace.
 
-But I know one thing for sure
-I'm not gonna live my life
-The way you did, Ernest Hemingway
-
-> text-davinci-002, Monday, 19:04 UTC, 2022-03-28
+> text-davinci-002, Monday, 19:30 UTC, 2022-03-28

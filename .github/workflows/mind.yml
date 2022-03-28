@@ -15,6 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      CUSTOM_PROMPT: ${{ github.event.inputs.prompt }}
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2
@@ -36,4 +37,4 @@ jobs:
           git config --global user.name "${GITHUB_ACTOR}"
           git add README.md
           git commit -m "${{ steps.meditation.outputs.commit_msg }}"
-          git push origin main
+          git push origin $(git rev-parse --abbrev-ref HEAD)

@@ -150,21 +150,22 @@ function oneOf (arr) {
 }
 
 const run = async () => {
-  if (process.env.OPENAI_API_KEY == null) {
-    throw new Error('missing required env var: process.env.OPENAI_API_KEY')
+  const { OPENAI_API_KEY, CUSTOM_PROMPT } = process.env
+
+  if (OPENAI_API_KEY == null) {
+    throw new Error('Missing required env var: OPENAI_API_KEY')
   }
 
-  const customPrompt = core.getInput('prompt')
   const engineId = core.getInput('engineId') || 'text-davinci-002'
   let prompt
 
   core.setOutput('engine_id', engineId)
 
-  if (customPrompt) {
-    prompt = customPrompt
+  if (typeof CUSTOM_PROMPT === 'string' && CUSTOM_PROMPT !== '') {
+    prompt = CUSTOM_PROMPT
 
-    core.setOutput('prompt', customPrompt)
-    core.setOutput('commit_msg', customPrompt.charAt(0).toUpperCase() + customPrompt.slice(1))
+    core.setOutput('prompt', prompt)
+    core.setOutput('commit_msg', prompt.charAt(0).toUpperCase() + prompt.slice(1))
   } else {
     const medium = oneOf(mediums)
     const prep = oneOf(prepositions)
@@ -173,7 +174,7 @@ const run = async () => {
     const author = oneOf(authors)
     const message = `${medium} ${prep} ${subject} ${relation} ${author}`
 
-    prompt = core.getInput('prompt') || `Please write an original ${message}.`
+    prompt = `Please write an original ${message}.`
 
     core.setOutput('prompt', prompt)
     core.setOutput('commit_msg', message.charAt(0).toUpperCase() + message.slice(1))
