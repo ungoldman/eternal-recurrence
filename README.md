@@ -1,9 +1,11 @@
 
 
-Old age is a time of wisdom and experience. It is a time to reflect on our lives and learn from our mistakes. It is also a time to enjoy the company of our friends and family, and to make new memories.
+When the world's most famous playwright, Oscar Wilde, was sentenced to two years in prison for "committing acts of gross indecency with other male persons," it was a national scandal. Wilde was immediately ostracized by polite society and his plays were banned from the stage.
 
- Hypatia, we honor you today not only because you are one of the oldest members of our community, but also because you are one of the wisest. Your life is a testimony to the fact that age is just a number, and that it is never too late to learn and grow.
+But Wilde refused to be defined by his prison sentence. He continued to write, and even managed to get his work published while he was behind bars.
 
-Thank you for sharing your time and your wisdom with us. We are all better for having known you.
+One of Wilde's most famous works, "The Ballad of Reading Gaol," was based on his own experience of incarceration. The poem is a searing indictment of the penal system, and it helped to bring about reform in the way prisoners were treated.
 
-> text-davinci-002, Monday, 22:00 UTC, 2022-03-28
+ Wilde's experience of tragedy and injustice served to inspire his work, and his words continue to resonate long after his death.
+
+> text-davinci-002, Monday, 23:00 UTC, 2022-03-28
