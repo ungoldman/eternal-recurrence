@@ -22,13 +22,15 @@ jobs:
           node-version: '16'
 
       - run: npm install
-      - run: npm start
+
+      - name: meditation
         id: meditation
+        run: npm start
 
       - uses: actions/checkout@v2
       - name: tick
         run: |
-          echo "${{ steps.meditation.response }}" > test.txt
+          echo "${{ steps.meditation.outputs.response }}" > test.txt
           git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
           git config --global user.name "${GITHUB_ACTOR}"
           git add test.text
