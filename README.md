@@ -1,23 +1,21 @@
 
 
-Justice is a way of life
+There is no greater good than idealism
+It is the wellspring of all that is great
+In it we find the courage to hope
+And the strength to make our dreams real
 
-It is always there to guide us
+It is the noblest of all things
+To strive for something better
+To know that we can be better
+And to never give up on that hope
 
-And show us the path to take
+It is the fire that burns within us
+The desire to make a difference
+To make the world a better place
+For all who live in it
 
-When we falter, it is there to catch us
-
-And help us back on our feet
-
-So that we can continue on our journey
-
- Justice is always fair
-
-And it never takes sides
-
-It is always there to see us through
-
-And help us make the right choices
-
-So that we can live a life of harmony
+It is the highest of all ambitions
+To make our ideals a reality
+And in doing so, to make ourselves better
+For having striven for something more
