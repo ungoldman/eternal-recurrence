@@ -1,7 +1,9 @@
 
 
-Abstract
+One day, a young woman was walking through a field when she came across a large, ambiguous object. She didn't know what it was, but she knew that it was important. She decided to take it home with her.
 
-Precise gene editing tools have been used to modify the genomes of various species of animals, including mice, rats, rabbits, sheep, and pigs. These techniques have also been used to generate human-animal chimeras, which are organisms that contain cells from two different species. The generation of human-animal chimeras has raised ethical concerns, as these organisms could potentially develop human-like characteristics. Nonetheless, human-animal chimeras may be useful for research purposes, such as studying human development and disease.
+When she got home, she showed it to her family. They couldn't figure out what it was either. But they all agreed that it was amazing.
 
-> text-davinci-002, Monday, 19:21 UTC, 2022-03-28
+The woman decided to keep the object. She called it her "ambiguous friend." It was always there for her when she needed it, and she never knew what it was. But that was okay, because it was her friend, and she loved it just the way it was.
+
+> text-davinci-002, Monday, 19:25 UTC, 2022-03-28
