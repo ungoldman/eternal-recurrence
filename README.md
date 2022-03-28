@@ -1,11 +1,7 @@
 
 
-When we are young, we are idealists. We believe that anything is possible and that the world is full of possibilities. We are optimistic and hopeful, and we believe that the future will be better than the present. We are idealists because we have not yet been disappointed by the reality of the world.
+Quantum physics is the branch of physics that explores the very small world of particles at the atomic and subatomic level. In quantum physics, the rules of classical physics no longer always apply. This means that subatomic particles can exist in more than one state at the same time. Quantum physics can help us to understand the strange and often seemingly bizarre behavior of particles on a very small scale.
 
-As we grow older, we become more realistic. We see the world for what it is, and we realize that not everything is possible. We learn that people are fallible, and that the world is full of suffering. We become less idealistic, but we also become wiser.
+Quantum physics is a fascinating field of study. It helps us to understand the strange and often seemingly bizarre behavior of particles on a very small scale. Quantum physics is not only important for understanding the world around us, but also has the potential to help us develop new technologies and devices that could have a profound impact on our lives.
 
- Idealism is not a bad thing. It is actually a good thing, because it allows us to see the world in a different, more positive light. It is only when we are disappointed by the reality of the world that we become cynical and pessimistic.
-
-So let us not lose our idealism. Let us keep our hope and our optimism, even in the face of disappointment. For only then can we truly change the world.
-
-> text-davinci-002, Monday, 18:00 UTC, 2022-03-28
+> text-davinci-002, Monday, 18:17 UTC, 2022-03-28
