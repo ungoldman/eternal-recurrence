@@ -1,23 +1,9 @@
 
 
-Adventure is something to be sought
-It's a journey we all must take
-To find out what life is really about
+Old age is a time of wisdom and experience. It is a time to reflect on our lives and learn from our mistakes. It is also a time to enjoy the company of our friends and family, and to make new memories.
 
-Aristotle said it best
-"The more we know, the more we realize how little we know"
+ Hypatia, we honor you today not only because you are one of the oldest members of our community, but also because you are one of the wisest. Your life is a testimony to the fact that age is just a number, and that it is never too late to learn and grow.
 
-So let's go out and explore
-See the world and all it has in store
-Create our own adventures
-And see where they take us
+Thank you for sharing your time and your wisdom with us. We are all better for having known you.
 
-Who knows what we'll find
- when we step out of our comfort zone
-It might just be the best thing we ever do
-
-So let's go forth and be brave
-See what adventure has in store
-And live our lives to the fullest
-
-> text-davinci-002, Monday, 21:00 UTC, 2022-03-28
+> text-davinci-002, Monday, 22:00 UTC, 2022-03-28
