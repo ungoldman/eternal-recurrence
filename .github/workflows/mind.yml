@@ -3,7 +3,7 @@ name: meditate
 on:
   push:
   schedule:
-    - cron: '0 16-23 * * *' # pro-tip: https://crontab.guru
+    - cron: '0 16-23 * * *'
   workflow_dispatch:
     inputs:
       prompt:
@@ -34,5 +34,5 @@ jobs:
           git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
           git config --global user.name "${GITHUB_ACTOR}"
           git add README.md
-          git commit -m "meditate" -m "${{ steps.meditation.outputs.prompt }}"
+          git commit -m "${{ steps.meditation.outputs.commit_msg }}"
           git push origin main

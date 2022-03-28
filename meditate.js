@@ -96,7 +96,9 @@ const run = async () => {
   const subject = oneOf(subjects)
   const style = oneOf(styles)
   const engineId = core.getInput('engineId') || 'text-davinci-002'
-  const prompt = core.getInput('prompt') || `Please write an original ${medium} about ${subject} in the style of ${style}.`
+  const message = `${medium} about ${subject} in the style of ${style}`
+  const prompt = core.getInput('prompt') || `Please write an original ${message}.`
+  const commit = core.setOutput('commit_msg', message)
 
   core.setOutput('medium', medium)
   core.setOutput('subject', subject)
