@@ -154,18 +154,30 @@ const run = async () => {
     throw new Error('missing required env var: process.env.OPENAI_API_KEY')
   }
 
-  const medium = oneOf(mediums)
-  const prep = oneOf(prepositions)
-  const subject = oneOf(subjects)
-  const relation = oneOf(relations)
-  const author = oneOf(authors)
+  const customPrompt = core.getInput('prompt')
   const engineId = core.getInput('engineId') || 'text-davinci-002'
-  const message = `${medium} ${prep} ${subject} ${relation} ${author}`
-  const prompt = core.getInput('prompt') || `Please write an original ${message}.`
+  let prompt
 
-  core.setOutput('prompt', prompt)
   core.setOutput('engine_id', engineId)
-  core.setOutput('commit_msg', message.charAt(0).toUpperCase() + message.slice(1))
+
+  if (customPrompt) {
+    prompt = customPrompt
+
+    core.setOutput('prompt', customPrompt)
+    core.setOutput('commit_msg', customPrompt.charAt(0).toUpperCase() + customPrompt.slice(1))
+  } else {
+    const medium = oneOf(mediums)
+    const prep = oneOf(prepositions)
+    const subject = oneOf(subjects)
+    const relation = oneOf(relations)
+    const author = oneOf(authors)
+    const message = `${medium} ${prep} ${subject} ${relation} ${author}`
+
+    prompt = core.getInput('prompt') || `Please write an original ${message}.`
+
+    core.setOutput('prompt', prompt)
+    core.setOutput('commit_msg', message.charAt(0).toUpperCase() + message.slice(1))
+  }
 
   const payload = {
     prompt,
