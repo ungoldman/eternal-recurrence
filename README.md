@@ -1,9 +1,9 @@
 
 
-Justice is a virtue that is essential for a harmonious society. It is the quality of being just, impartial, and fair. Everyone has a sense of justice, and we need to cultivate this virtue in ourselves and in others.
+There is no greater joy than knowing that you are living a life of purpose. When you are aligned with your true nature and are living in accordance with your values, you will naturally feel a sense of joy and contentment. This is because you are living a life that is authentic and in alignment with who you really are.
 
-When we see someone who has been wronged, we should feel compassion for them and a desire to see justice done. We should also feel anger at the person who committed the injustice, and a desire to see them punished. These emotions are natural and normal, but we need to control them. We should not let our anger blind us to the truth or lead us to commit injustice ourselves.
+Confucius said, "To know what is right and not do it is the worst form of cowardice." When you know what brings you joy and you take action towards it, you are living a brave and courageous life. You are not afraid to follow your heart and pursue your dreams. This is the kind of life that is most fulfilling and satisfying.
 
-Justice is not always easy, but it is always worth striving for. We need to be patient and to listen to all sides before making a decision. We should be fair and just in our dealings with others, and we should always seek to find the truth.
+So, if you want to experience true joy, start by living a life of purpose. Align yourself with your values and take action towards your dreams. This is the path to a joyful and fulfilling life.
 
-> text-davinci-002, Monday, 17:08 UTC, 2022-03-28
+> text-davinci-002, Monday, 17:11 UTC, 2022-03-28
