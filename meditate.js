@@ -94,7 +94,7 @@ function oneOf (arr) {
 }
 
 const run = async () => {
-  if (typeof process.env.OPENAI_API_KEY == null) {
+  if (process.env.OPENAI_API_KEY == null) {
     throw new Error('missing required env var: process.env.OPENAI_API_KEY')
   }
 
@@ -104,7 +104,6 @@ const run = async () => {
   const engineId = core.getInput('engineId') || 'text-davinci-002'
   const message = `${medium} about ${subject} in the style of ${style}`
   const prompt = core.getInput('prompt') || `Please write an original ${message}.`
-  const commit = core.setOutput('commit_msg', message)
 
   core.setOutput('medium', medium)
   core.setOutput('subject', subject)
@@ -112,6 +111,7 @@ const run = async () => {
   core.setOutput('style', engineId)
   core.setOutput('prompt', prompt)
   core.setOutput('engine_id', engineId)
+  core.setOutput('commit_msg', message)
 
   const payload = {
     prompt,
