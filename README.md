@@ -1,9 +1,21 @@
 
 
-One day, a young woman was walking through a field when she came across a large, ambiguous object. She didn't know what it was, but she knew that it was important. She decided to take it home with her.
+Oh, how I long for the days of yore
+When our countrymen were so bold
+And they stood up for what was right
+Without a thought for the cost
+They gave their all for the cause
+And they fought until the end
+For the sake of liberty
+And the chance to start anew
 
-When she got home, she showed it to her family. They couldn't figure out what it was either. But they all agreed that it was amazing.
+Let us follow in their footsteps
+And rise up against oppression
+Let us take back what is ours
+And forge our own destiny
+The time for revolution is now
+So let us take up the fight
+And never give in or give up
+Until we have won the day!
 
-The woman decided to keep the object. She called it her "ambiguous friend." It was always there for her when she needed it, and she never knew what it was. But that was okay, because it was her friend, and she loved it just the way it was.
-
-> text-davinci-002, Monday, 19:25 UTC, 2022-03-28
+> text-davinci-002, Monday, 19:36 UTC, 2022-03-28
