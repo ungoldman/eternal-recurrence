@@ -1,9 +1,11 @@
 
 
-We are mortal beings, and this fact is at the root of much of our anxiety. The knowledge that we will die one day – that our time is limited – can be a source of great fear.
+When we are young, we are idealists. We believe that anything is possible and that the world is full of possibilities. We are optimistic and hopeful, and we believe that the future will be better than the present. We are idealists because we have not yet been disappointed by the reality of the world.
 
-But mortality can also be a source of strength and resolve. It can remind us of what is truly important in life, and help us to live each day to the fullest.
+As we grow older, we become more realistic. We see the world for what it is, and we realize that not everything is possible. We learn that people are fallible, and that the world is full of suffering. We become less idealistic, but we also become wiser.
 
-When we come to terms with our mortality, we can find a new appreciation for life. We can cherish our time on earth, and make the most of every moment.
+ Idealism is not a bad thing. It is actually a good thing, because it allows us to see the world in a different, more positive light. It is only when we are disappointed by the reality of the world that we become cynical and pessimistic.
+
+So let us not lose our idealism. Let us keep our hope and our optimism, even in the face of disappointment. For only then can we truly change the world.
 
 > text-davinci-002, Monday, 18:00 UTC, 2022-03-28
