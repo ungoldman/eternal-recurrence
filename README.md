@@ -1,17 +1,9 @@
-# eternal recurrence
-
-> prompt: Please write an original essay about a subject of your choosing in the style of Paul Sartre.
 
 
+The world is full of constant change. The only thing that is truly real is the present moment. The past is gone and the future is not yet here. All we have is the present.
 
-Existence precedes essence. This is what Sartre means when he says that man is "condemned to be free." We are free to choose what we will do with our lives, and in that way we create our own essence. Our choices are what make us who we are.
+This can be a difficult concept to grasp. We are always looking to the past or the future for reference points. We try to predict what will happen next and plan for it. But the only thing that is really real is the present moment.
 
-We are constantly making choices, whether we realize it or not. Every time we decide to do something, we are choosing who we want to be. For example, if I decide to go to the gym every day, I am choosing to be a healthy person. If I decide to eat junk food all the time, I am choosing to be a lazy person.
+This is not to say that the past and future don't exist. They do, but they are not real in the same way as the present. The past is just a memory and the future is just an imagined future. Neither of them are truly real.
 
-The options we have in life are endless. We can choose to be anything we want. The only limit is our own imagination.
-
-So what does it mean to be free? It means that we are responsible for our own lives. We are the ones who decide what we want to do with our time. We are the ones who decide what kind of person we want to be.
-
-Freedom is a heavy burden. It can be scary to think that we are in control of our own lives. But it is also empowering. We can choose to do anything we want with our lives. We can be anyone we want to be.
-
-So what will you choose? What kind of person do you want to be? The choice is yours.
+The present is the only thing that is real. It is always changing and it is the only thing that we can truly experience. The past and future may be important to us, but they are not real. We need to focus on the present moment and live in the now.
