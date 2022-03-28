@@ -1,31 +1,13 @@
 
 
-I don't care if the sun shines
-I don't care if the birds sing
-I'm just a cynical man
-Living in a cynical world
+My fellow citizens,
 
-No, I don't care if the sun shines
-I don't care if the birds sing
-I'm just a cynical man
-Living in a cynical world
+I stand before you today to talk about ambiguity. This is a subject that is very important to me, and one that I feel strongly about.
 
-I've seen too much of this life
-I've seen too much of this world
-And I'm just not impressed
+Ambiguity is something that we all face in our lives. It is something that can be difficult to deal with, and can often lead to confusion and misunderstanding.
 
-I've read your books, Ernest
-And I just don't see
-What all the fuss is about
+However, ambiguity is also something that can be used to our advantage. It can be used to create new opportunities, and to help us see things in new ways.
 
-You wrote about war and love
-But it all just seems so trite
+So, I invite you to embrace ambiguity. Embrace it as a tool that can help you grow and learn. Use it to your advantage, and let it help you create a better future for yourself and for those around you.
 
-Maybe I'm just not smart enough
-Maybe I'm just not wise
-
-But I know one thing for sure
-I'm not gonna live my life
-The way you did, Ernest Hemingway
-
-> text-davinci-002, Monday, 19:04 UTC, 2022-03-28
+> text-davinci-002, Monday, 19:19 UTC, 2022-03-28
