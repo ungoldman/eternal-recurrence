@@ -1,5 +1,12 @@
 name: OpenAI Completion
 
+on:
+  workflow_dispatch:
+    inputs:
+      prompt:
+        description: The prompt to generate completions for.
+        required: true
+
 jobs:
   openai_completion:
     runs-on: ubuntu-latest
