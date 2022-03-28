@@ -173,11 +173,13 @@ const run = async () => {
     const author = oneOf(authors)
     const message = `${medium} ${prep} ${subject} ${relation} ${author}`
 
-    prompt = core.getInput('prompt') || `Please write an original ${message}.`
+    prompt = `Please write an original ${message}.`
 
     core.setOutput('prompt', prompt)
     core.setOutput('commit_msg', message.charAt(0).toUpperCase() + message.slice(1))
   }
+
+  console.log('custom prompt?', customPrompt)
 
   const payload = {
     prompt,
@@ -200,6 +202,8 @@ const run = async () => {
       }
     })(core.getInput('logit_bias'))
   }
+
+  console.log('payload', payload)
 
   if (!payload.prompt) {
     core.setFailed('No prompt provided')
