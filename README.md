@@ -1,9 +1,5 @@
 
 
-Since the early days of his career, J.R.R. Tolkein had a love for politics. He was an active member of the Conservative Party, and even ran for office several times. Tolkein was a strong believer in the importance of tradition and hierarchy, and he thought that society should be ruled by a small group of elites.
+There is something awe-inspiring about the universe and its vastness. It's hard to wrap our minds around just how big it is and how long it's been around. Isaac Asimov did a great job of explaining some of the science behind it all in his work. I find it amazing that we have been able to learn so much about the universe and its history. It's a reminder that there is still so much to learn and explore.
 
-While Tolkein's views on politics were controversial, he was still a respected thinker and political thinker. His views on government and society influenced many people, and his ideas continue to be relevant today. Tolkein's love for politics was evident in his writing, and his novels often explored themes of government and power.
-
-Tolkein's novels are still widely read and loved today, and his influence on politics is still felt. His ideas about tradition, hierarchy, and elitism are still controversial, but they continue to shape the way we think about politics. J.R.R. Tolkein was a true political thinker, and his legacy will continue to influence the world of politics for years to come.
-
-> text-davinci-002, Monday, 18:44 UTC, 2022-03-28
+> text-davinci-002, Monday, 18:52 UTC, 2022-03-28
