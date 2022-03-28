@@ -10,7 +10,13 @@ const mediums = [
   'meditation',
   'speech',
   'essay',
-  'journal entry'
+  'journal entry',
+  'reflection',
+  'polemic',
+  'tirade',
+  'ode',
+  'song',
+  'dirge'
 ]
 
 const subjects = [
