@@ -1,4 +1,4 @@
-name: meditate
+name: meditation
 
 on:
   workflow_dispatch:
@@ -21,15 +21,10 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
-      - uses: actions/github-script@v5
-        name: Print the response text
-        with:
-          script: console.log('${{ steps.openai_completion.outputs.response }}')
-
       - uses: actions/checkout@v2
       - name: tick
         run: |
-          echo "${{ steps.openai_completion.outputs.response }}" > test.json
+          echo "${{ steps.openai_completion }}" > test.json
           git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
           git config --global user.name "${GITHUB_ACTOR}"
           git add test.json
