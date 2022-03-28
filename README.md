@@ -1,36 +1,31 @@
 
 
-"Wilde Actions"
+I don't care if the sun shines
+I don't care if the birds sing
+I'm just a cynical man
+Living in a cynical world
 
-We're taking our Wilde actions,
-To live life to the fullest
-No matter what the cost,
-Our days are filled with purpose
+No, I don't care if the sun shines
+I don't care if the birds sing
+I'm just a cynical man
+Living in a cynical world
 
-We're on the hunt for adventure,
-Our spirits never quench
-Our passion is unending,
-Our desire to experience
+I've seen too much of this life
+I've seen too much of this world
+And I'm just not impressed
 
-We'll push on through the hardships,
-We'll never back down
-Our resolve is unshakeable,
-Our ambition is boundless
+I've read your books, Ernest
+And I just don't see
+What all the fuss is about
 
-We are the embodiment of Wilde,
-Living life on our own terms
-Daring to be different,
-Never conforming to the norm
+You wrote about war and love
+But it all just seems so trite
 
-Our lives are a work of art,
-A tapestry of colors and hues
-A story that's always unfolding,
-Never to be repeated
+Maybe I'm just not smart enough
+Maybe I'm just not wise
 
-This is our time,
-This is our moment
+But I know one thing for sure
+I'm not gonna live my life
+The way you did, Ernest Hemingway
 
-Let's make the most of it,
-Carpe diem!
-
-> text-davinci-002, Monday, 19:00 UTC, 2022-03-28
+> text-davinci-002, Monday, 19:04 UTC, 2022-03-28
