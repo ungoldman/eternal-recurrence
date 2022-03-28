@@ -25,6 +25,8 @@ jobs:
 
       - name: meditation
         id: meditation
+        with:
+          prompt: ${{ github.event.inputs.prompt }}
         run: npm start
 
       - uses: actions/checkout@v2
@@ -36,4 +38,4 @@ jobs:
           git config --global user.name "${GITHUB_ACTOR}"
           git add README.md
           git commit -m "${{ steps.meditation.outputs.commit_msg }}"
-          git push origin main
+          git push origin $(git rev-parse --abbrev-ref HEAD)
