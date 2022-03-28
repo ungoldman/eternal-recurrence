@@ -1,13 +1,7 @@
 
 
-My fellow citizens,
+Abstract
 
-I stand before you today to talk about ambiguity. This is a subject that is very important to me, and one that I feel strongly about.
+Precise gene editing tools have been used to modify the genomes of various species of animals, including mice, rats, rabbits, sheep, and pigs. These techniques have also been used to generate human-animal chimeras, which are organisms that contain cells from two different species. The generation of human-animal chimeras has raised ethical concerns, as these organisms could potentially develop human-like characteristics. Nonetheless, human-animal chimeras may be useful for research purposes, such as studying human development and disease.
 
-Ambiguity is something that we all face in our lives. It is something that can be difficult to deal with, and can often lead to confusion and misunderstanding.
-
-However, ambiguity is also something that can be used to our advantage. It can be used to create new opportunities, and to help us see things in new ways.
-
-So, I invite you to embrace ambiguity. Embrace it as a tool that can help you grow and learn. Use it to your advantage, and let it help you create a better future for yourself and for those around you.
-
-> text-davinci-002, Monday, 19:19 UTC, 2022-03-28
+> text-davinci-002, Monday, 19:21 UTC, 2022-03-28
