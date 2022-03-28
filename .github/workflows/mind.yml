@@ -2,8 +2,8 @@ name: meditate
 
 on:
   push:
-  # schedule:
-  #   - cron: '0 1-9 * * *' # pro-tip: https://crontab.guru
+  schedule:
+    - cron: '0 16-23 * * *' # pro-tip: https://crontab.guru
   workflow_dispatch:
     inputs:
       prompt:
