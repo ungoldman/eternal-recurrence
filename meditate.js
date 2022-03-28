@@ -12,6 +12,7 @@ const mediums = [
   'essay',
   'journal entry'
 ]
+
 const subjects = [
   'existentialism',
   'the nature of existence',
@@ -48,6 +49,7 @@ const subjects = [
   'joy',
   'a subject of your choosing'
 ]
+
 const styles = [
   'Friedrich Nietzsche',
   'Ludwig Wittgenstein',
