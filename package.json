@@ -1,0 +1,29 @@
+{
+  "name": "eternal-recurrence",
+  "description": "generative creative writing via OpenAI",
+  "version": "1.0.0",
+  "author": "Nate Goldman <ungoldman@gmail.com> (https://ungoldman.com/)",
+  "bugs": {
+    "url": "https://github.com/ungoldman/eternal-recurrence/issues"
+  },
+  "dependencies": {
+    "@actions/core": "^1.6.0",
+    "openai": "^2.0.5"
+  },
+  "devDependencies": {
+    "standard": "^16.0.4"
+  },
+  "homepage": "https://github.com/ungoldman/eternal-recurrence#readme",
+  "license": "BlueOak-1.0.0",
+  "main": "meditate.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ungoldman/eternal-recurrence.git"
+  },
+  "scripts": {
+    "start": "node meditate.js",
+    "test": "standard"
+  },
+  "type": "module"
+}

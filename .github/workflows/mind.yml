@@ -1,32 +1,36 @@
-name: meditation
+name: meditate
 
 on:
+  push:
+  # schedule:
+  #   - cron: '0 1-9 * * *' # pro-tip: https://crontab.guru
   workflow_dispatch:
     inputs:
       prompt:
-        description: The prompt to generate completions for.
+        description: Please provide a prompt for completion.
         required: true
 
 jobs:
-  openai_completion:
+  meditate:
     runs-on: ubuntu-latest
-    name: OpenAI
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
     steps:
-      - uses: austenstone/openai-completion-action@main
-        name: OpenAI Completion
-        id: openai_completion
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
         with:
-          prompt: ${{ github.event.inputs.prompt }}
-          finish_reason: stop
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          node-version: '16'
+
+      - run: npm install
+      - run: npm start
+        id: meditation
 
       - uses: actions/checkout@v2
       - name: tick
         run: |
-          echo "${{ steps.openai_completion }}" > test.json
+          echo "${{ steps.meditation.response }}" > test.txt
           git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
           git config --global user.name "${GITHUB_ACTOR}"
-          git add test.json
+          git add test.text
           git commit -m "add test response"
           git push origin main
