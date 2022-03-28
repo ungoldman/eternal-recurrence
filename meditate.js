@@ -5,15 +5,12 @@ import { Configuration, OpenAIApi } from 'openai'
 
 const mediums = [
   'poem',
-  'haiku',
   'soliloquy',
   'short story',
   'meditation',
   'speech',
   'essay',
-  'journal entry',
-  'abstract',
-  'thought'
+  'journal entry'
 ]
 const subjects = [
   'existentialism',
@@ -36,6 +33,13 @@ const subjects = [
   'faith',
   'humanity',
   'artificial intelligence',
+  'art',
+  'food',
+  'revolution',
+  'justice',
+  'ethics',
+  'ambiguity',
+  'joy',
   'a subject of your choosing'
 ]
 const styles = [
