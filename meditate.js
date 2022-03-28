@@ -44,7 +44,9 @@ const subjects = [
 ]
 const styles = [
   'Friedrich Nietzsche',
+  'Ludwig Wittgenstein',
   'David Hume',
+  'Mary Wollstonecraft',
   'Baruch Spinoza',
   'René Descartes',
   'Rabindranath Tagore',
@@ -56,10 +58,28 @@ const styles = [
   'Aristotle',
   'Plato',
   'Diogenes',
+  'Hypatia',
   'Albert Camus',
+  'Simone Weil',
   'Paul Sartre',
   'Simone de Beauvoire',
   'Hannah Arendt',
+  'Alan Watts',
+  'Hermann Hesse',
+  'Iris Murdoch',
+  'Judith Butler',
+  'bell hooks',
+  'Octavia Butler',
+  'Angela Davis',
+  'W.E.B. Du Bois',
+  'Cornel West',
+  'Kwame Anthony Appiah',
+  'Ursula K. Le Guin',
+  'Philip K. Dick',
+  'J.R.R. Tolkein',
+  'Isaac Asimov',
+  'James Joyce',
+  'Oscar Wilde',
   'your choosing'
 ]
 
@@ -119,8 +139,6 @@ const run = async () => {
 
   openai.createCompletion(engineId, payload).then((response) => {
     const data = response.data.choices?.[0]?.text || response.data
-
-    console.log(data)
 
     core.info('Response:')
     core.info(JSON.stringify(data, null, 2))
