@@ -154,7 +154,7 @@ const run = async () => {
     throw new Error('missing required env var: process.env.OPENAI_API_KEY')
   }
 
-  const customPrompt = core.getInput('prompt')
+  const customPrompt = process.env.CUSTOM_PROMPT
   const engineId = core.getInput('engineId') || 'text-davinci-002'
   let prompt
 
