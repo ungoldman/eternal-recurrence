@@ -3,7 +3,7 @@ name: meditate
 on:
   push:
   schedule:
-    - cron: '0 16-23 * * *'
+    - cron: '0 16 * * *'
   workflow_dispatch:
     inputs:
       prompt:
