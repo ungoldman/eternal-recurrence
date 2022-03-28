@@ -160,6 +160,8 @@ const run = async () => {
 
   core.setOutput('engine_id', engineId)
 
+  console.log('custom prompt?', customPrompt, typeof customPrompt, customPrompt == null, customPrompt === '')
+
   if (customPrompt) {
     prompt = customPrompt
 
@@ -178,8 +180,6 @@ const run = async () => {
     core.setOutput('prompt', prompt)
     core.setOutput('commit_msg', message.charAt(0).toUpperCase() + message.slice(1))
   }
-
-  console.log('custom prompt?', customPrompt)
 
   const payload = {
     prompt,
