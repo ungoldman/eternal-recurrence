@@ -1,15 +1,34 @@
 
 
-The eternal return of the same. The same youth, always. In and out of dateless time, they come and go, always the same. The same fashions, the same music, the same concerns. They are ever-changing and yet always the same.
+Ernest Hemingway,
 
-The youth are the carriers of the future, but they are also the products of the past. They are always in a state of becoming, but they are also the embodiment of the eternal present. They are at once the hope and the despair of humanity.
+I know you're feeling down,
+I know that you're feeling blue.
+I know that you're thinking maybe life's just not worth living through.
 
-They are the living embodiment of the will to power. They are always striving, always struggling, always seeking to overcome. They are the engine of history, always pushing forward, always seeking to create something new.
+But I want you to know,
+that even though you're gone,
+your life mattered to me and to everyone else who knew you.
 
-But they are also the slaves of their own desires. They are always chasing after the new, the shiny, the exciting. They are easily bored, easily distracted, and always looking for the next big thing. They are the victims of their own impatience, their own restlessness.
+So please don't give up,
+please don't give in,
+please don't think that your life was a waste.
 
-They are always in flux, always in motion, always changing. But they are also the guardians of the past, the preservers of tradition. They are the keepers of the flame, the custodians of our culture.
+It's not too late,
+to turn things around,
+to start living again.
 
-They are the hope of the future and the despair of the present. They are the youth.
+I know it's hard,
+I know it seems impossible,
+but you're stronger than you know.
 
-> text-davinci-002, Tuesday, 18:01 UTC, 2022-03-29
+So don't give up Ernest Hemingway,
+don't let depression win.
+
+You're worth fighting for,
+you're worth living for,
+you're worth everything.
+
+Never forget that.
+
+> text-davinci-002, Tuesday, 19:00 UTC, 2022-03-29
