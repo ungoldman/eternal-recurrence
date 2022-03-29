@@ -1,34 +1,30 @@
 
 
-Ernest Hemingway,
+Come all ye fair maidens and listen to my tale
+Of the greatest adventurer that ever did sail
+He left his home in England, seeking new shores
+In a tiny boat he set out to explore
 
-I know you're feeling down,
-I know that you're feeling blue.
-I know that you're thinking maybe life's just not worth living through.
+The sea was rough and the wind was high
+But he never once thought to turn back
+He had a dream and he was going to try
+To make it come true, no matter the cost
 
-But I want you to know,
-that even though you're gone,
-your life mattered to me and to everyone else who knew you.
+For weeks he battled the elements
+And finally arrived on distant shores
+He had many adventures, both good and bad
+And he learned so much along the way
 
-So please don't give up,
-please don't give in,
-please don't think that your life was a waste.
+Now he's back home in England once more
+And he's glad to be safe and sound
+But he can't help but to yearn for more
 
-It's not too late,
-to turn things around,
-to start living again.
+ adventures out on the sea
+He knows that's where he's meant to be
 
-I know it's hard,
-I know it seems impossible,
-but you're stronger than you know.
+So if you're feeling brave and bold
+And you're looking for something new
+Why don't you set sail like Shakespeare did
+And go and find your own adventure!
 
-So don't give up Ernest Hemingway,
-don't let depression win.
-
-You're worth fighting for,
-you're worth living for,
-you're worth everything.
-
-Never forget that.
-
-> text-davinci-002, Tuesday, 19:00 UTC, 2022-03-29
+> text-davinci-002, Tuesday, 20:00 UTC, 2022-03-29
