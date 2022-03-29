@@ -1,11 +1,15 @@
 
 
-When the world's most famous playwright, Oscar Wilde, was sentenced to two years in prison for "committing acts of gross indecency with other male persons," it was a national scandal. Wilde was immediately ostracized by polite society and his plays were banned from the stage.
+When we think of idealism, what often comes to mind are lofty goals and impossibly high standards. But what if we looked at idealism a different way? What if instead of seeing it as something unattainable, we saw it as a guide to help us live our lives?
 
-But Wilde refused to be defined by his prison sentence. He continued to write, and even managed to get his work published while he was behind bars.
+This is what Oscar Wilde did. He saw idealism not as a set of unattainable goals, but as a way to live life to the fullest. He believed that by embracing idealism, we could achieve anything we set our minds to.
 
-One of Wilde's most famous works, "The Ballad of Reading Gaol," was based on his own experience of incarceration. The poem is a searing indictment of the penal system, and it helped to bring about reform in the way prisoners were treated.
+"It is through art, and through art only, that we can realize our perfection; through art and art only that we can attain to that which is our highest ideal."
 
- Wilde's experience of tragedy and injustice served to inspire his work, and his words continue to resonate long after his death.
+ Wilde believed that art was the highest expression of idealism. And he was right. Art is about pushing boundaries and reaching for something greater. It's about striving for excellence and never settling for mediocrity.
 
-> text-davinci-002, Monday, 23:00 UTC, 2022-03-28
+In a world that is often dark and cynical, we need idealism now more than ever. We need to believe that we can make a difference. We need to believe that we can achieve our highest ideals.
+
+Thank you, Oscar Wilde, for showing us the power of idealism. Thank you for reminding us that we can be anything we want to be. Thank you for inspiring us to reach for the stars.
+
+> text-davinci-002, Tuesday, 16:02 UTC, 2022-03-29
