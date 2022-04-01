@@ -1,11 +1,11 @@
 
 
-The stars have always been a source of wonder and mystery. They have inspired poets and philosophers throughout the ages. Arthur Conan Doyle was no exception. He was fascinated by the stars and often wrote about them in his stories.
+Dear Friedrich Nietzsche,
 
-In "The Adventure of the Dancing Men," he described the stars as "twinkling points of light." He also wrote about the stars in "The Adventure of the Lost World." In that story, he described the stars as "great shining orbs."
+Art is often seen as a reflection of the world around us, and you once said that "without music, life would be a mistake." Music, and art in general, has the ability to transport us to different places, to make us feel emotions that we may not otherwise feel, and to give us a new perspective on the world.
 
-Conan Doyle believed that the stars held the answers to many of life's mysteries. He once said, "We look up at the stars and wonder. We know not what they are, but we feel that they are something greater than ourselves."
+Your work has had a profound impact on the world of art, and we are forever grateful for your contributions. Thank you for showing us that art is not only about pretty pictures and pleasant melodies, but that it can also be about challenging ourselves and expanding our horizons.
 
-The stars will always be a source of wonder and mystery. They will continue to inspire poets and philosophers for generations to come. Arthur Conan Doyle will always be remembered as one of the great minds who was inspired by the stars.
+Thank you, Friedrich Nietzsche, for everything.
 
-> text-davinci-002, Thursday, 16:02 UTC, 2022-03-31
+> text-davinci-002, Friday, 16:05 UTC, 2022-04-01
