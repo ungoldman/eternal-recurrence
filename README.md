@@ -1,17 +1,13 @@
 
 
-There was once a middle-aged woman who lived in a small village. She was a kind and gentle woman, and she was loved by all who knew her. One day, a traveling troupe of entertainers came to the village, and the woman was captivated by their performance. She asked the troupe to stay with her for a while, and they agreed.
+Kwame Anthony Appiah was a man who knew joy. He was a man who celebrated life, even in the face of adversity. He was a man who understood that joy is the engine that drives us forward.
 
-The woman was very hospitable, and she treated the troupe members like family. They shared stories and laughter around the fire each night, and the woman was happy to have them in her home.
+Appiah was a man who was always looking for the next adventure. He was a man who was always seeking out new experiences. He was a man who was always looking for ways to bring joy into the world.
 
-One night, the woman was awakened by a noise outside her window. She looked out to see a group of men on horseback, armed with swords and bows. The men were calling for the troupe to come out and entertain them.
+Appiah was a man who believed that joy is the birthright of all human beings. He believed that joy is what makes us truly alive. He believed that joy is what connects us to the rest of humanity.
 
-The woman was terrified, and she hid under the bed. She could hear the men ransacking the house, and she knew that they would find her eventually. She prayed for a miracle, and then she heard the sound of horses galloping away.
+Appiah was a man who lived his life with joy. And in doing so, he inspired others to do the same.
 
-When she dared to come out from under the bed, she saw that the troupe had been taken away by the men. She was all alone in the house, and she knew that she would never see her friends again.
+Today, as we remember Appiah, let us also remember the joy that he brought into the world. Let us remember the joy that he showed us is possible. Let us remember the joy that is our birthright. And let us use that joy to fuel our own lives, and the lives of those around us.
 
-The woman was heartbroken, but she did not give up. She went to the nearest town and told the authorities what had happened. They mounted a search for the troupe, but they were never found.
-
-The woman never forgot her friends, and she always wondered what happened to them. She hoped that they were happy and that they were entertaining the men who took them away.
-
-> text-davinci-002, Sunday, 16:02 UTC, 2022-04-03
+> text-davinci-002, Monday, 16:02 UTC, 2022-04-04
