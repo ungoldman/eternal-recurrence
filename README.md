@@ -1,27 +1,5 @@
 
 
-The stars are like a blanket,
+Once upon a time there was a city full of people who never left their homes. They never left because they were afraid of what was outside. They were afraid of the monsters that lived in the forest. But one day a brave girl decided to leave her home and venture into the forest. She was not afraid of the monsters because she knew that they were only there to scare people. She made friends with the monsters and soon the whole city was filled with brave people who were not afraid of the monsters anymore.
 
-Covering the sky in a shroud of light.
-
-They twinkle and shine,
-
-A reminder that we are not alone.
-
-Butler says that the stars
-
-Are like a sign of hope,
-
-A reminder that there is something
-
-Beyond this world.
-
-And I agree,
-
-The stars are beautiful and bright,
-
-And they give me hope
-
-That there is something more out there.
-
-> text-davinci-002, Wednesday, 16:06 UTC, 2022-04-06
+> text-davinci-002, Thursday, 16:03 UTC, 2022-04-07
