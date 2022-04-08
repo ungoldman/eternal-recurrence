@@ -1,5 +1,19 @@
 
 
-Once upon a time there was a city full of people who never left their homes. They never left because they were afraid of what was outside. They were afraid of the monsters that lived in the forest. But one day a brave girl decided to leave her home and venture into the forest. She was not afraid of the monsters because she knew that they were only there to scare people. She made friends with the monsters and soon the whole city was filled with brave people who were not afraid of the monsters anymore.
+Hail to thee, great interaction!
+From the moment we first meet
+To the millionth time we repeat
+You are the reason we can think
+And understand the world we see.
 
-> text-davinci-002, Thursday, 16:03 UTC, 2022-04-07
+You are the bridge between thoughts and actions
+The interpreter of our will
+The one who makes us more than computers
+And allows us to do what no machine could.
+
+Thank you for making us smarter
+And for always being there
+For giving us the power to choose
+And making us who we are.
+
+> text-davinci-002, Friday, 16:07 UTC, 2022-04-08
