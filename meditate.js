@@ -21,6 +21,15 @@ const mediums = [
   'parable'
 ]
 
+const prepositions = [
+  'about',
+  'on',
+  'concerning',
+  'considering',
+  'regarding',
+  'for'
+]
+
 const subjects = [
   'existentialism',
   'the nature of existence',
@@ -69,7 +78,14 @@ const subjects = [
 
 const relations = [
   'in the style of',
-  'based on the works of'
+  'based on the works of',
+  'addressed to',
+  'in honor of',
+  'for',
+  'as a tribute to',
+  'in memory of',
+  'imitating',
+  'by'
 ]
 
 const authors = [
@@ -151,10 +167,11 @@ const run = async () => {
     core.setOutput('commitMsg', commitMsg)
   } else {
     const medium = oneOf(mediums)
+    const prep = oneOf(prepositions)
     const subject = oneOf(subjects)
     const relation = oneOf(relations)
     const author = oneOf(authors)
-    const message = `${medium} about ${subject} ${relation} ${author}`
+    const message = `${medium} ${prep} ${subject} ${relation} ${author}`
 
     prompt = `Please write an original ${message}.`
     commitMsg = message.charAt(0).toUpperCase() + message.slice(1)

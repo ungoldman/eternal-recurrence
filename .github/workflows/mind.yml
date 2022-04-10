@@ -38,7 +38,7 @@ jobs:
           echo -e ${{ steps.meditation.outputs.response }} >> "${{ steps.meditation.outputs.fileName }}"
           echo -e "\n> ${{ steps.meditation.outputs.engine_id }}, $(date +"%A, %H:%M %Z, %F")" >> "${{ steps.meditation.outputs.fileName }}"
 
-          echo -e "- [${{ steps.meditation.outputs.baseName }}](${{ steps.meditation.outputs.linkText }})\n" >> README.md
+          echo -e "${{ steps.meditation.outputs.linkText }}\n" >> README.md
 
           git add "${{ steps.meditation.outputs.fileName }}"
           git add README.md
