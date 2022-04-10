@@ -31,9 +31,11 @@ jobs:
       - uses: actions/checkout@v2
       - name: commit
         run: |
-          echo -e ${{ steps.meditation.outputs.fileContents }} > "${{ steps.meditation.outputs.fileName }}"
+          echo -e "# ${{ steps.meditation.outputs.commit_msg }}\n" > "${{ steps.meditation.outputs.fileName }}"
+          echo -e ${{ steps.meditation.outputs.response }} >> "${{ steps.meditation.outputs.fileName }}"
+          echo -e "\n> ${{ steps.meditation.outputs.engine_id }}, $(date +"%A, %H:%M %Z, %F")" >> "${{ steps.meditation.outputs.fileName }}"
           git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
           git config --global user.name "${GITHUB_ACTOR}"
-          git add stories/*
-          git commit -m "${{ steps.meditation.outputs.commitMsg }}"
+          git add "${{ steps.meditation.outputs.fileName }}"
+          git commit -m "${{ steps.meditation.outputs.commit_msg }}"
           git push origin $(git rev-parse --abbrev-ref HEAD)

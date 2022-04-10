@@ -205,15 +205,7 @@ const run = async () => {
 
     const datePrefix = ((new Date()).toISOString()).slice(0, 10)
     const fileName = `${datePrefix} - ${commitMsg}.md`
-    const fileContents = `
-# ${commitMsg}
-
-${data}
-
-> ${engineId}, ${datePrefix}
-`
     core.setOutput('fileName', fileName)
-    core.setOutput('fileContents', fileContents)
   }).catch((err) => {
     core.setFailed(err)
   })
