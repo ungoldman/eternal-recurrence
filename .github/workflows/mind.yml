@@ -29,12 +29,8 @@ jobs:
         run: npm start
 
       - uses: actions/checkout@v2
-      - name: tick
+      - name: commit
         run: |
-          echo -e ${{ steps.meditation.outputs.response }} > README.md
-          echo -e "\n> ${{ steps.meditation.outputs.engine_id }}, $(date +"%A, %H:%M %Z, %F")" >> README.md
-          git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-          git config --global user.name "${GITHUB_ACTOR}"
-          git add README.md
-          git commit -m "${{ steps.meditation.outputs.commit_msg }}"
+          git add stories/*
+          git commit -m "${{ steps.meditation.outputs.commitMsg }}"
           git push origin $(git rev-parse --abbrev-ref HEAD)

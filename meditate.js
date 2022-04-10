@@ -2,6 +2,7 @@
 
 import * as core from '@actions/core'
 import { Configuration, OpenAIApi } from 'openai'
+import * as fs from 'fs'
 
 const mediums = [
   'poem',
@@ -137,15 +138,18 @@ const run = async () => {
   }
 
   const engineId = core.getInput('engineId') || 'text-davinci-002'
+
   let prompt
+  let commitMsg
 
   core.setOutput('engine_id', engineId)
 
   if (typeof CUSTOM_PROMPT === 'string' && CUSTOM_PROMPT !== '') {
     prompt = CUSTOM_PROMPT
+    commitMsg = prompt.charAt(0).toUpperCase() + prompt.slice(1)
 
     core.setOutput('prompt', prompt)
-    core.setOutput('commit_msg', prompt.charAt(0).toUpperCase() + prompt.slice(1))
+    core.setOutput('commitMsg', commitMsg)
   } else {
     const medium = oneOf(mediums)
     const subject = oneOf(subjects)
@@ -154,9 +158,10 @@ const run = async () => {
     const message = `${medium} about ${subject} ${relation} ${author}`
 
     prompt = `Please write an original ${message}.`
+    commitMsg = message.charAt(0).toUpperCase() + message.slice(1)
 
     core.setOutput('prompt', prompt)
-    core.setOutput('commit_msg', message.charAt(0).toUpperCase() + message.slice(1))
+    core.setOutput('commitMsg', commitMsg)
   }
 
   const payload = {
@@ -198,6 +203,17 @@ const run = async () => {
     core.info('Response:')
     core.info(JSON.stringify(data, null, 2))
     core.setOutput('response', JSON.stringify(data))
+
+    const datePrefix = ((new Date()).toISOString()).slice(0, 10)
+    const fileName = `${datePrefix} - ${commitMsg}.md`
+    const fileContents = `
+# ${commitMsg}
+
+${data}
+
+> ${engineId}, ${datePrefix}
+`
+    fs.writeFileSync(fileName, fileContents)
   }).catch((err) => {
     core.setFailed(err)
   })
