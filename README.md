@@ -14,3 +14,5 @@ New story generated each day at 16:00 UTC.
 
 - [2022-04-10 - Poem considering revolution imitating Philip K. Dick](stories/2022-04-10%20-%20Poem%20considering%20revolution%20imitating%20Philip%20K.%20Dick.md)
 
+- [2022-04-10 - Parable considering revolution based on the works of Lev Tolstoy](stories/2022-04-10%20-%20Parable%20considering%20revolution%20based%20on%20the%20works%20of%20Lev%20Tolstoy.md)
+
