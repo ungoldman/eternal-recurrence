@@ -79,13 +79,8 @@ const subjects = [
 const relations = [
   'in the style of',
   'based on the works of',
-  'addressed to',
-  'in honor of',
-  'for',
-  'as a tribute to',
-  'in memory of',
-  'imitating',
-  'by'
+  'written by',
+  'in the voice of'
 ]
 
 const authors = [
