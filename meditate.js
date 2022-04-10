@@ -2,7 +2,6 @@
 
 import * as core from '@actions/core'
 import { Configuration, OpenAIApi } from 'openai'
-import * as fs from 'fs'
 
 const mediums = [
   'poem',
@@ -213,7 +212,8 @@ ${data}
 
 > ${engineId}, ${datePrefix}
 `
-    fs.writeFileSync(fileName, fileContents)
+    core.setOutput('fileName', fileName)
+    core.setOutput('fileContents', fileContents)
   }).catch((err) => {
     core.setFailed(err)
   })
