@@ -204,7 +204,9 @@ const run = async () => {
     core.setOutput('response', JSON.stringify(data))
 
     const datePrefix = ((new Date()).toISOString()).slice(0, 10)
-    const fileName = `stories/${datePrefix} - ${commitMsg}.md`
+    const baseName = `${datePrefix} - ${commitMsg}`
+    const fileName = `stories/${baseName}.md`
+    core.setOutput('baseName', baseName)
     core.setOutput('fileName', fileName)
   }).catch((err) => {
     core.setFailed(err)
