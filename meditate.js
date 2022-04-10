@@ -206,8 +206,10 @@ const run = async () => {
     const datePrefix = ((new Date()).toISOString()).slice(0, 10)
     const baseName = `${datePrefix} - ${commitMsg}`
     const fileName = `stories/${baseName}.md`
+    const linkText = `- [${baseName}](${fileName.replace(/ /g, '%20')})`
     core.setOutput('baseName', baseName)
     core.setOutput('fileName', fileName)
+    core.setOutput('linkText', linkText)
   }).catch((err) => {
     core.setFailed(err)
   })
