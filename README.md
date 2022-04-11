@@ -16,3 +16,5 @@ New story generated each day at 16:00 UTC.
 
 - [2022-04-10 - Parable considering revolution based on the works of Lev Tolstoy](stories/2022-04-10%20-%20Parable%20considering%20revolution%20based%20on%20the%20works%20of%20Lev%20Tolstoy.md)
 
+- [2022-04-11 - Yarn considering transcendence based on the works of Cornel West](stories/2022-04-11%20-%20Yarn%20considering%20transcendence%20based%20on%20the%20works%20of%20Cornel%20West.md)
+
