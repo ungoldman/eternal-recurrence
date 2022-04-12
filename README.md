@@ -34,3 +34,4 @@ Produces a new story each day using the [`schedule`](https://docs.github.com/en/
 - [2022-04-11 - Yarn considering transcendence based on the works of Cornel West](stories/2022-04-11%20-%20Yarn%20considering%20transcendence%20based%20on%20the%20works%20of%20Cornel%20West.md)
 - [2022-04-12 - Parable regarding joy written by Friedrich Nietzsche](stories/2022-04-12%20-%20Parable%20regarding%20joy%20written%20by%20Friedrich%20Nietzsche.md)
 - [2022-04-12 - Essay for theoretical particle physics based on the works of David Hume](stories/2022-04-12%20-%20Essay%20for%20theoretical%20particle%20physics%20based%20on%20the%20works%20of%20David%20Hume.md)
+- [2022-04-12 - Reflection about action in the style of Simone de Beauvoire](stories/2022-04-12%20-%20Reflection%20about%20action%20in%20the%20style%20of%20Simone%20de%20Beauvoire.md)
