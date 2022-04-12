@@ -20,3 +20,4 @@ Produces a new story each day using the [`schedule`](https://docs.github.com/en/
 - [2022-04-10 - Poem considering revolution imitating Philip K. Dick](stories/2022-04-10%20-%20Poem%20considering%20revolution%20imitating%20Philip%20K.%20Dick.md)
 - [2022-04-10 - Parable considering revolution based on the works of Lev Tolstoy](stories/2022-04-10%20-%20Parable%20considering%20revolution%20based%20on%20the%20works%20of%20Lev%20Tolstoy.md)
 - [2022-04-11 - Yarn considering transcendence based on the works of Cornel West](stories/2022-04-11%20-%20Yarn%20considering%20transcendence%20based%20on%20the%20works%20of%20Cornel%20West.md)
+- [2022-04-12 - Parable regarding joy written by Friedrich Nietzsche](stories/2022-04-12%20-%20Parable%20regarding%20joy%20written%20by%20Friedrich%20Nietzsche.md)
