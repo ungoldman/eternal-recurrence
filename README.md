@@ -12,6 +12,18 @@ Produces a new story each day using the [`schedule`](https://docs.github.com/en/
 
 ## Stories
 
+- [Yarn on youth in the style of Friedrich Nietzsche](./stories/2022-03-29%20-%20Yarn%20on%20youth%20in%20the%20style%20of%20Friedrich%20Nietzsche.md)
+- [Short story concerning the moon for Baruch Spinoza](./stories/2022-03-30%20-%20Short%20story%20concerning%20the%20moon%20for%20Baruch%20Spinoza.md)
+- [Essay concerning the stars in honor of Arthur Conan Doyle](./stories/2022-03-31%20-%20Essay%20concerning%20the%20stars%20in%20honor%20of%20Arthur%20Conan%20Doyle.md)
+- [Speech for art addressed to Friedrich Nietzsche](./stories/2022-04-01%20-%20Speech%20for%20art%20addressed%20to%20Friedrich%20Nietzsche.md)
+- [Yarn concerning depression based on the works of Mark Twain](./stories/2022-04-02%20-%20Yarn%20concerning%20depression%20based%20on%20the%20works%20of%20Mark%20Twain.md)
+- [Fairy tale on middle age in the style of Arthur Conan Doyle](./stories/2022-04-03%20-%20Fairy%20tale%20on%20middle%20age%20in%20the%20style%20of%20Arthur%20Conan%20Doyle.md)
+- [Yarn about food based on the works of Kwame Anthony Appiah](./stories/2022-04-04%20-%20Yarn%20about%20food%20based%20on%20the%20works%20of%20Kwame%20Anthony%20Appiah.md)
+- [Soliloquy about middle age in the style of Cornel West](./stories/2022-04-05%20-%20Soliloquy%20about%20middle%20age%20in%20the%20style%20of%20Cornel%20West.md)
+- [Poem about the stars based on the works of Judith Butler](./stories/2022-04-06%20-%20Poem%20about%20the%20stars%20based%20on%20the%20works%20of%20Judith%20Butler.md)
+- [Parable about a subject of your choosing in the style of Octavia Butler](./stories/2022-04-07%20-%20Parable%20about%20a%20subject%20of%20your%20choosing%20in%20the%20style%20of%20Octavia%20Butler.md)
+- [Ode about human computer interaction based on the works of Arthur Conan Doyle](./stories/2022-04-08%20-%20Ode%20about%20human%20computer%20interaction%20based%20on%20the%20works%20of%20Arthur%20Conan%20Doyle.md)
+- [Fairy tale about joy in the style of Haruki Murakami](./stories/2022-04-09%20-%20Fairy%20tale%20about%20joy%20in%20the%20style%20of%20Haruki%20Murakami.md)
 - [2022-04-10 - Tall tale about humanity in the style of Philip K. Dick](./stories/2022-04-10%20-%20Tall%20tale%20about%20humanity%20in%20the%20style%20of%20Philip%20K.%20Dick.md)
 - [2022-04-10 - Tall tale about truth based on the works of Judith Butler](./stories/2022-04-10%20-%20Tall%20tale%20about%20truth%20based%20on%20the%20works%20of%20Judith%20Butler.md)
 - [2022-04-10 - Fable about faith based on the works of William Shakespeare](stories/2022-04-10%20-%20Fable%20about%20faith%20based%20on%20the%20works%20of%20William%20Shakespeare.md)
