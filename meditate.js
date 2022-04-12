@@ -18,7 +18,9 @@ const mediums = [
   'fairy tale',
   'yarn',
   'tall tale',
-  'parable'
+  'parable',
+  'comedy',
+  'tragedy'
 ]
 
 const prepositions = [
