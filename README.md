@@ -2,7 +2,13 @@
 
 An experiment in generative creative writing.
 
-New story generated each day at 16:00 UTC.
+New story generated each day at 16:00 UTC (sometimes more than one in a day if I'm fiddling with code).
+
+## About
+
+Feeds a randomly generated prompt to [OpenAI's Completions API](https://beta.openai.com/docs/api-reference/completions) to produce a (*hopefully*) original text each time.
+
+Produces a new story each day using the [`schedule`](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#schedule) github actions workflow trigger (essentially a [cron](https://en.wikipedia.org/wiki/Cron) job).
 
 ## Stories
 
