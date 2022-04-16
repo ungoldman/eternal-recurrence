@@ -38,3 +38,4 @@ Produces a new story each day using the [`schedule`](https://docs.github.com/en/
 - [2022-04-13 - Fable on the nature of existence in the style of David Hume](stories/2022-04-13%20-%20Fable%20on%20the%20nature%20of%20existence%20in%20the%20style%20of%20David%20Hume.md)
 - [2022-04-14 - Essay about inspiration in the style of Diogenes](stories/2022-04-14%20-%20Essay%20about%20inspiration%20in%20the%20style%20of%20Diogenes.md)
 - [2022-04-15 - Speech on a subject of your choosing based on the works of Edgar Allan Poe](stories/2022-04-15%20-%20Speech%20on%20a%20subject%20of%20your%20choosing%20based%20on%20the%20works%20of%20Edgar%20Allan%20Poe.md)
+- [2022-04-16 - Short story about the nature of existence in the style of Kwame Anthony Appiah](stories/2022-04-16%20-%20Short%20story%20about%20the%20nature%20of%20existence%20in%20the%20style%20of%20Kwame%20Anthony%20Appiah.md)
