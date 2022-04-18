@@ -40,3 +40,4 @@ Produces a new story each day using the [`schedule`](https://docs.github.com/en/
 - [2022-04-15 - Speech on a subject of your choosing based on the works of Edgar Allan Poe](stories/2022-04-15%20-%20Speech%20on%20a%20subject%20of%20your%20choosing%20based%20on%20the%20works%20of%20Edgar%20Allan%20Poe.md)
 - [2022-04-16 - Short story about the nature of existence in the style of Kwame Anthony Appiah](stories/2022-04-16%20-%20Short%20story%20about%20the%20nature%20of%20existence%20in%20the%20style%20of%20Kwame%20Anthony%20Appiah.md)
 - [2022-04-17 - Tall tale considering food based on the works of Ernest Hemingway](stories/2022-04-17%20-%20Tall%20tale%20considering%20food%20based%20on%20the%20works%20of%20Ernest%20Hemingway.md)
+- [2022-04-18 - Song for art based on the works of Fyodor Dostoevsky](stories/2022-04-18%20-%20Song%20for%20art%20based%20on%20the%20works%20of%20Fyodor%20Dostoevsky.md)
