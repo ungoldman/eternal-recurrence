@@ -43,3 +43,4 @@ Produces a new story each day using the [`schedule`](https://docs.github.com/en/
 - [2022-04-18 - Song for art based on the works of Fyodor Dostoevsky](stories/2022-04-18%20-%20Song%20for%20art%20based%20on%20the%20works%20of%20Fyodor%20Dostoevsky.md)
 - [2022-04-19 - Ode considering uncertainty in the style of Ernest Hemingway](stories/2022-04-19%20-%20Ode%20considering%20uncertainty%20in%20the%20style%20of%20Ernest%20Hemingway.md)
 - [2022-04-20 - Ode for pragmatism in the style of Rabindranath Tagore](stories/2022-04-20%20-%20Ode%20for%20pragmatism%20in%20the%20style%20of%20Rabindranath%20Tagore.md)
+- [2022-04-21 - Yarn on art based on the works of Paul Sartre](stories/2022-04-21%20-%20Yarn%20on%20art%20based%20on%20the%20works%20of%20Paul%20Sartre.md)
