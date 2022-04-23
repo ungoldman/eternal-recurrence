@@ -229,6 +229,4 @@ const run = async () => {
   })
 }
 
-// no top-level await until standard@17
-// https://github.com/standard/standard/issues/1548
-(async function () { await run() })()
+await run()
