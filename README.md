@@ -49,3 +49,4 @@ Produces a new story each day using the [`schedule`](https://docs.github.com/en/
 - [2022-04-23 - Yarn about mortality in the voice of René Descartes](stories/2022-04-23%20-%20Yarn%20about%20mortality%20in%20the%20voice%20of%20René%20Descartes.md)
 - [2022-04-24 - Song concerning faith based on the works of Albert Camus](stories/2022-04-24%20-%20Song%20concerning%20faith%20based%20on%20the%20works%20of%20Albert%20Camus.md)
 - [2022-04-25 - Short story for existentialism in the voice of Hermann Hesse](stories/2022-04-25%20-%20Short%20story%20for%20existentialism%20in%20the%20voice%20of%20Hermann%20Hesse.md)
+- [2022-04-26 - Speech considering a subject of your choosing written by Baruch Spinoza](stories/2022-04-26%20-%20Speech%20considering%20a%20subject%20of%20your%20choosing%20written%20by%20Baruch%20Spinoza.md)
