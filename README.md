@@ -54,3 +54,4 @@ Produces a new story each day using the [`schedule`](https://docs.github.com/en/
 - [2022-04-28 - Soliloquy on ambiguity in the style of Dante Alighieri](stories/2022-04-28%20-%20Soliloquy%20on%20ambiguity%20in%20the%20style%20of%20Dante%20Alighieri.md)
 - [2022-04-29 - Song concerning truth based on the works of Iris Murdoch](stories/2022-04-29%20-%20Song%20concerning%20truth%20based%20on%20the%20works%20of%20Iris%20Murdoch.md)
 - [2022-04-30 - Reflection considering theoretical particle physics written by Simone de Beauvoire](stories/2022-04-30%20-%20Reflection%20considering%20theoretical%20particle%20physics%20written%20by%20Simone%20de%20Beauvoire.md)
+- [2022-05-01 - Speech about youth written by William Shakespeare](stories/2022-05-01%20-%20Speech%20about%20youth%20written%20by%20William%20Shakespeare.md)
