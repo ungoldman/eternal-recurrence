@@ -56,3 +56,4 @@ Produces a new story each day using the [`schedule`](https://docs.github.com/en/
 - [2022-04-30 - Reflection considering theoretical particle physics written by Simone de Beauvoire](stories/2022-04-30%20-%20Reflection%20considering%20theoretical%20particle%20physics%20written%20by%20Simone%20de%20Beauvoire.md)
 - [2022-05-01 - Speech about youth written by William Shakespeare](stories/2022-05-01%20-%20Speech%20about%20youth%20written%20by%20William%20Shakespeare.md)
 - [2022-05-02 - Essay about justice in the voice of Cornel West](stories/2022-05-02%20-%20Essay%20about%20justice%20in%20the%20voice%20of%20Cornel%20West.md)
+- [2022-05-03 - Tall tale concerning idealism in the style of Rabindranath Tagore](stories/2022-05-03%20-%20Tall%20tale%20concerning%20idealism%20in%20the%20style%20of%20Rabindranath%20Tagore.md)
