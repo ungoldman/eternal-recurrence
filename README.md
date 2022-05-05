@@ -58,3 +58,4 @@ Produces a new story each day using the [`schedule`](https://docs.github.com/en/
 - [2022-05-02 - Essay about justice in the voice of Cornel West](stories/2022-05-02%20-%20Essay%20about%20justice%20in%20the%20voice%20of%20Cornel%20West.md)
 - [2022-05-03 - Tall tale concerning idealism in the style of Rabindranath Tagore](stories/2022-05-03%20-%20Tall%20tale%20concerning%20idealism%20in%20the%20style%20of%20Rabindranath%20Tagore.md)
 - [2022-05-04 - Poem considering food in the style of Isaac Asimov](stories/2022-05-04%20-%20Poem%20considering%20food%20in%20the%20style%20of%20Isaac%20Asimov.md)
+- [2022-05-05 - Yarn about quantum physics in the style of Fyodor Dostoevsky](stories/2022-05-05%20-%20Yarn%20about%20quantum%20physics%20in%20the%20style%20of%20Fyodor%20Dostoevsky.md)
