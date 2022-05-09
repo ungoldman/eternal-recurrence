@@ -62,3 +62,4 @@ Produces a new story each day using the [`schedule`](https://docs.github.com/en/
 - [2022-05-06 - Meditation considering ethics in the voice of your choosing](stories/2022-05-06%20-%20Meditation%20considering%20ethics%20in%20the%20voice%20of%20your%20choosing.md)
 - [2022-05-07 - Poem about joy based on the works of Isaac Asimov](stories/2022-05-07%20-%20Poem%20about%20joy%20based%20on%20the%20works%20of%20Isaac%20Asimov.md)
 - [2022-05-08 - Comedy on old age written by Philip K. Dick](stories/2022-05-08%20-%20Comedy%20on%20old%20age%20written%20by%20Philip%20K.%20Dick.md)
+- [2022-05-09 - Ode on economics in the style of Isaac Asimov](stories/2022-05-09%20-%20Ode%20on%20economics%20in%20the%20style%20of%20Isaac%20Asimov.md)
