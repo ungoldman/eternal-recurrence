@@ -70,3 +70,4 @@ Produces a new story each day using the [`schedule`](https://docs.github.com/en/
 - [2022-05-14 - Poem for quantum physics written by Hypatia](stories/2022-05-14%20-%20Poem%20for%20quantum%20physics%20written%20by%20Hypatia.md)
 - [2022-05-15 - Essay regarding the stars based on the works of David Hume](stories/2022-05-15%20-%20Essay%20regarding%20the%20stars%20based%20on%20the%20works%20of%20David%20Hume.md)
 - [2022-05-16 - Tall tale for politics based on the works of Paul Sartre](stories/2022-05-16%20-%20Tall%20tale%20for%20politics%20based%20on%20the%20works%20of%20Paul%20Sartre.md)
+- [2022-05-17 - Yarn regarding pragmatism in the style of Plato](stories/2022-05-17%20-%20Yarn%20regarding%20pragmatism%20in%20the%20style%20of%20Plato.md)
