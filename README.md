@@ -73,3 +73,4 @@ Produces a new story each day using the [`schedule`](https://docs.github.com/en/
 - [2022-05-17 - Yarn regarding pragmatism in the style of Plato](stories/2022-05-17%20-%20Yarn%20regarding%20pragmatism%20in%20the%20style%20of%20Plato.md)
 - [2022-05-18 - Reflection on art in the style of René Descartes](stories/2022-05-18%20-%20Reflection%20on%20art%20in%20the%20style%20of%20René%20Descartes.md)
 - [2022-05-19 - Short story concerning ethics in the style of Alan Watts](stories/2022-05-19%20-%20Short%20story%20concerning%20ethics%20in%20the%20style%20of%20Alan%20Watts.md)
+- [2022-05-20 - Reflection for love based on the works of Fyodor Dostoevsky](stories/2022-05-20%20-%20Reflection%20for%20love%20based%20on%20the%20works%20of%20Fyodor%20Dostoevsky.md)
