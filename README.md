@@ -76,3 +76,4 @@ Produces a new story each day using the [`schedule`](https://docs.github.com/en/
 - [2022-05-20 - Reflection for love based on the works of Fyodor Dostoevsky](stories/2022-05-20%20-%20Reflection%20for%20love%20based%20on%20the%20works%20of%20Fyodor%20Dostoevsky.md)
 - [2022-05-21 - Song for old age based on the works of bell hooks](stories/2022-05-21%20-%20Song%20for%20old%20age%20based%20on%20the%20works%20of%20bell%20hooks.md)
 - [2022-05-22 - Fable for action based on the works of Virginia Woolf](stories/2022-05-22%20-%20Fable%20for%20action%20based%20on%20the%20works%20of%20Virginia%20Woolf.md)
+- [2022-05-23 - Song regarding the sun in the voice of Hypatia](stories/2022-05-23%20-%20Song%20regarding%20the%20sun%20in%20the%20voice%20of%20Hypatia.md)
