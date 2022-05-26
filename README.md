@@ -79,3 +79,4 @@ Produces a new story each day using the [`schedule`](https://docs.github.com/en/
 - [2022-05-23 - Song regarding the sun in the voice of Hypatia](stories/2022-05-23%20-%20Song%20regarding%20the%20sun%20in%20the%20voice%20of%20Hypatia.md)
 - [2022-05-24 - Fable regarding human computer interaction written by Isaac Asimov](stories/2022-05-24%20-%20Fable%20regarding%20human%20computer%20interaction%20written%20by%20Isaac%20Asimov.md)
 - [2022-05-25 - Speech for cynicism in the voice of Rabindranath Tagore](stories/2022-05-25%20-%20Speech%20for%20cynicism%20in%20the%20voice%20of%20Rabindranath%20Tagore.md)
+- [2022-05-26 - Fable for artificial intelligence based on the works of Philip K. Dick](stories/2022-05-26%20-%20Fable%20for%20artificial%20intelligence%20based%20on%20the%20works%20of%20Philip%20K.%20Dick.md)
