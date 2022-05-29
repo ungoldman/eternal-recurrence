@@ -82,3 +82,4 @@ Produces a new story each day using the [`schedule`](https://docs.github.com/en/
 - [2022-05-26 - Fable for artificial intelligence based on the works of Philip K. Dick](stories/2022-05-26%20-%20Fable%20for%20artificial%20intelligence%20based%20on%20the%20works%20of%20Philip%20K.%20Dick.md)
 - [2022-05-27 - Song concerning revolution written by Isaac Asimov](stories/2022-05-27%20-%20Song%20concerning%20revolution%20written%20by%20Isaac%20Asimov.md)
 - [2022-05-28 - Speech about theoretical particle physics in the voice of Isaac Asimov](stories/2022-05-28%20-%20Speech%20about%20theoretical%20particle%20physics%20in%20the%20voice%20of%20Isaac%20Asimov.md)
+- [2022-05-29 - Short story on food based on the works of Angela Davis](stories/2022-05-29%20-%20Short%20story%20on%20food%20based%20on%20the%20works%20of%20Angela%20Davis.md)
