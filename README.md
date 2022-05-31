@@ -84,3 +84,4 @@ Produces a new story each day using the [`schedule`](https://docs.github.com/en/
 - [2022-05-28 - Speech about theoretical particle physics in the voice of Isaac Asimov](stories/2022-05-28%20-%20Speech%20about%20theoretical%20particle%20physics%20in%20the%20voice%20of%20Isaac%20Asimov.md)
 - [2022-05-29 - Short story on food based on the works of Angela Davis](stories/2022-05-29%20-%20Short%20story%20on%20food%20based%20on%20the%20works%20of%20Angela%20Davis.md)
 - [2022-05-30 - Journal entry considering truth in the style of Octavia Butler](stories/2022-05-30%20-%20Journal%20entry%20considering%20truth%20in%20the%20style%20of%20Octavia%20Butler.md)
+- [2022-05-31 - Parable considering uncertainty in the voice of Hannah Arendt](stories/2022-05-31%20-%20Parable%20considering%20uncertainty%20in%20the%20voice%20of%20Hannah%20Arendt.md)
