@@ -86,3 +86,4 @@ Produces a new story each day using the [`schedule`](https://docs.github.com/en/
 - [2022-05-30 - Journal entry considering truth in the style of Octavia Butler](stories/2022-05-30%20-%20Journal%20entry%20considering%20truth%20in%20the%20style%20of%20Octavia%20Butler.md)
 - [2022-05-31 - Parable considering uncertainty in the voice of Hannah Arendt](stories/2022-05-31%20-%20Parable%20considering%20uncertainty%20in%20the%20voice%20of%20Hannah%20Arendt.md)
 - [2022-06-01 - Parable for enlightenment in the voice of William Shakespeare](stories/2022-06-01%20-%20Parable%20for%20enlightenment%20in%20the%20voice%20of%20William%20Shakespeare.md)
+- [2022-06-02 - Yarn regarding realism based on the works of Philip K. Dick](stories/2022-06-02%20-%20Yarn%20regarding%20realism%20based%20on%20the%20works%20of%20Philip%20K.%20Dick.md)
