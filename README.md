@@ -89,3 +89,4 @@ Produces a new story each day using the [`schedule`](https://docs.github.com/en/
 - [2022-06-02 - Yarn regarding realism based on the works of Philip K. Dick](stories/2022-06-02%20-%20Yarn%20regarding%20realism%20based%20on%20the%20works%20of%20Philip%20K.%20Dick.md)
 - [2022-06-03 - Yarn considering transcendence in the voice of Virginia Woolf](stories/2022-06-03%20-%20Yarn%20considering%20transcendence%20in%20the%20voice%20of%20Virginia%20Woolf.md)
 - [2022-06-04 - Poem for faith based on the works of Philip K. Dick](stories/2022-06-04%20-%20Poem%20for%20faith%20based%20on%20the%20works%20of%20Philip%20K.%20Dick.md)
+- [2022-06-05 - Poem regarding the stars written by Epictetus](stories/2022-06-05%20-%20Poem%20regarding%20the%20stars%20written%20by%20Epictetus.md)
