@@ -92,3 +92,4 @@ Produces a new story each day using the [`schedule`](https://docs.github.com/en/
 - [2022-06-05 - Poem regarding the stars written by Epictetus](stories/2022-06-05%20-%20Poem%20regarding%20the%20stars%20written%20by%20Epictetus.md)
 - [2022-06-06 - Parable about joy in the style of Albert Camus](stories/2022-06-06%20-%20Parable%20about%20joy%20in%20the%20style%20of%20Albert%20Camus.md)
 - [2022-06-07 - Ode regarding realism based on the works of James Joyce](stories/2022-06-07%20-%20Ode%20regarding%20realism%20based%20on%20the%20works%20of%20James%20Joyce.md)
+- [2022-06-08 - Tragedy concerning food based on the works of Sophocles](stories/2022-06-08%20-%20Tragedy%20concerning%20food%20based%20on%20the%20works%20of%20Sophocles.md)
