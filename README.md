@@ -94,3 +94,4 @@ Produces a new story each day using the [`schedule`](https://docs.github.com/en/
 - [2022-06-07 - Ode regarding realism based on the works of James Joyce](stories/2022-06-07%20-%20Ode%20regarding%20realism%20based%20on%20the%20works%20of%20James%20Joyce.md)
 - [2022-06-08 - Tragedy concerning food based on the works of Sophocles](stories/2022-06-08%20-%20Tragedy%20concerning%20food%20based%20on%20the%20works%20of%20Sophocles.md)
 - [2022-06-09 - Reflection about artificial intelligence in the voice of Simone Weil](stories/2022-06-09%20-%20Reflection%20about%20artificial%20intelligence%20in%20the%20voice%20of%20Simone%20Weil.md)
+- [2022-06-10 - Song on food in the voice of Kwame Anthony Appiah](stories/2022-06-10%20-%20Song%20on%20food%20in%20the%20voice%20of%20Kwame%20Anthony%20Appiah.md)
