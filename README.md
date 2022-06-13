@@ -97,3 +97,4 @@ Produces a new story each day using the [`schedule`](https://docs.github.com/en/
 - [2022-06-10 - Song on food in the voice of Kwame Anthony Appiah](stories/2022-06-10%20-%20Song%20on%20food%20in%20the%20voice%20of%20Kwame%20Anthony%20Appiah.md)
 - [2022-06-11 - Ode considering depression based on the works of Mary Wollstonecraft](stories/2022-06-11%20-%20Ode%20considering%20depression%20based%20on%20the%20works%20of%20Mary%20Wollstonecraft.md)
 - [2022-06-12 - Song on the moon in the voice of Lao Tzu](stories/2022-06-12%20-%20Song%20on%20the%20moon%20in%20the%20voice%20of%20Lao%20Tzu.md)
+- [2022-06-13 - Essay about love in the voice of Friedrich Nietzsche](stories/2022-06-13%20-%20Essay%20about%20love%20in%20the%20voice%20of%20Friedrich%20Nietzsche.md)
