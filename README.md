@@ -101,3 +101,4 @@ Produces a new story each day using the [`schedule`](https://docs.github.com/en/
 - [2022-06-14 - Ode on humanity written by Ludwig Wittgenstein](stories/2022-06-14%20-%20Ode%20on%20humanity%20written%20by%20Ludwig%20Wittgenstein.md)
 - [2022-06-15 - Song for ethics written by Sophocles](stories/2022-06-15%20-%20Song%20for%20ethics%20written%20by%20Sophocles.md)
 - [2022-06-16 - Tragedy considering realism written by James Joyce](stories/2022-06-16%20-%20Tragedy%20considering%20realism%20written%20by%20James%20Joyce.md)
+- [2022-06-17 - Soliloquy about joy based on the works of your choosing](stories/2022-06-17%20-%20Soliloquy%20about%20joy%20based%20on%20the%20works%20of%20your%20choosing.md)
