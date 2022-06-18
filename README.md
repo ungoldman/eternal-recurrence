@@ -102,3 +102,4 @@ Produces a new story each day using the [`schedule`](https://docs.github.com/en/
 - [2022-06-15 - Song for ethics written by Sophocles](stories/2022-06-15%20-%20Song%20for%20ethics%20written%20by%20Sophocles.md)
 - [2022-06-16 - Tragedy considering realism written by James Joyce](stories/2022-06-16%20-%20Tragedy%20considering%20realism%20written%20by%20James%20Joyce.md)
 - [2022-06-17 - Soliloquy about joy based on the works of your choosing](stories/2022-06-17%20-%20Soliloquy%20about%20joy%20based%20on%20the%20works%20of%20your%20choosing.md)
+- [2022-06-18 - Ode about pragmatism in the style of Paul Sartre](stories/2022-06-18%20-%20Ode%20about%20pragmatism%20in%20the%20style%20of%20Paul%20Sartre.md)
