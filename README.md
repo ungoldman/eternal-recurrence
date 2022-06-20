@@ -104,3 +104,4 @@ Produces a new story each day using the [`schedule`](https://docs.github.com/en/
 - [2022-06-17 - Soliloquy about joy based on the works of your choosing](stories/2022-06-17%20-%20Soliloquy%20about%20joy%20based%20on%20the%20works%20of%20your%20choosing.md)
 - [2022-06-18 - Ode about pragmatism in the style of Paul Sartre](stories/2022-06-18%20-%20Ode%20about%20pragmatism%20in%20the%20style%20of%20Paul%20Sartre.md)
 - [2022-06-19 - Fable considering the nature of existence written by Hermann Hesse](stories/2022-06-19%20-%20Fable%20considering%20the%20nature%20of%20existence%20written%20by%20Hermann%20Hesse.md)
+- [2022-06-20 - Meditation for comedy based on the works of Ernest Hemingway](stories/2022-06-20%20-%20Meditation%20for%20comedy%20based%20on%20the%20works%20of%20Ernest%20Hemingway.md)
