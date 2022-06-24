@@ -108,3 +108,4 @@ Produces a new story each day using the [`schedule`](https://docs.github.com/en/
 - [2022-06-21 - Speech on old age in the style of Edgar Allan Poe](stories/2022-06-21%20-%20Speech%20on%20old%20age%20in%20the%20style%20of%20Edgar%20Allan%20Poe.md)
 - [2022-06-22 - Speech concerning quantum physics based on the works of Dante Alighieri](stories/2022-06-22%20-%20Speech%20concerning%20quantum%20physics%20based%20on%20the%20works%20of%20Dante%20Alighieri.md)
 - [2022-06-23 - Essay for tragedy written by Paul Sartre](stories/2022-06-23%20-%20Essay%20for%20tragedy%20written%20by%20Paul%20Sartre.md)
+- [2022-06-24 - Soliloquy concerning the sun in the voice of Hypatia](stories/2022-06-24%20-%20Soliloquy%20concerning%20the%20sun%20in%20the%20voice%20of%20Hypatia.md)
