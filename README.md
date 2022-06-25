@@ -109,3 +109,4 @@ Produces a new story each day using the [`schedule`](https://docs.github.com/en/
 - [2022-06-22 - Speech concerning quantum physics based on the works of Dante Alighieri](stories/2022-06-22%20-%20Speech%20concerning%20quantum%20physics%20based%20on%20the%20works%20of%20Dante%20Alighieri.md)
 - [2022-06-23 - Essay for tragedy written by Paul Sartre](stories/2022-06-23%20-%20Essay%20for%20tragedy%20written%20by%20Paul%20Sartre.md)
 - [2022-06-24 - Soliloquy concerning the sun in the voice of Hypatia](stories/2022-06-24%20-%20Soliloquy%20concerning%20the%20sun%20in%20the%20voice%20of%20Hypatia.md)
+- [2022-06-25 - Reflection concerning inspiration in the style of Kwame Anthony Appiah](stories/2022-06-25%20-%20Reflection%20concerning%20inspiration%20in%20the%20style%20of%20Kwame%20Anthony%20Appiah.md)
