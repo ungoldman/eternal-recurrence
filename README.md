@@ -111,3 +111,4 @@ Produces a new story each day using the [`schedule`](https://docs.github.com/en/
 - [2022-06-24 - Soliloquy concerning the sun in the voice of Hypatia](stories/2022-06-24%20-%20Soliloquy%20concerning%20the%20sun%20in%20the%20voice%20of%20Hypatia.md)
 - [2022-06-25 - Reflection concerning inspiration in the style of Kwame Anthony Appiah](stories/2022-06-25%20-%20Reflection%20concerning%20inspiration%20in%20the%20style%20of%20Kwame%20Anthony%20Appiah.md)
 - [2022-06-26 - Parable on realism in the voice of Isaac Asimov](stories/2022-06-26%20-%20Parable%20on%20realism%20in%20the%20voice%20of%20Isaac%20Asimov.md)
+- [2022-06-27 - Reflection considering existentialism in the voice of Aristotle](stories/2022-06-27%20-%20Reflection%20considering%20existentialism%20in%20the%20voice%20of%20Aristotle.md)
