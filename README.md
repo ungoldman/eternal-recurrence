@@ -114,3 +114,4 @@ Produces a new story each day using the [`schedule`](https://docs.github.com/en/
 - [2022-06-27 - Reflection considering existentialism in the voice of Aristotle](stories/2022-06-27%20-%20Reflection%20considering%20existentialism%20in%20the%20voice%20of%20Aristotle.md)
 - [2022-06-28 - Essay concerning ethics in the style of Mark Twain](stories/2022-06-28%20-%20Essay%20concerning%20ethics%20in%20the%20style%20of%20Mark%20Twain.md)
 - [2022-06-29 - Tragedy for politics written by Philip K. Dick](stories/2022-06-29%20-%20Tragedy%20for%20politics%20written%20by%20Philip%20K.%20Dick.md)
+- [2022-06-30 - Fairy tale concerning joy written by William Shakespeare](stories/2022-06-30%20-%20Fairy%20tale%20concerning%20joy%20written%20by%20William%20Shakespeare.md)
