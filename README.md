@@ -2,7 +2,7 @@
 
 An experiment in generative creative writing.
 
-New story generated each day at 16:00 UTC (sometimes more than one in a day if I'm fiddling with code).
+No longer active.
 
 ## About
 
